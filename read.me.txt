@@ -1,0 +1,7 @@
+echo "# spring-cloud-msa-event" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/changwskr/spring-cloud-msa-event.git
+git push -u origin main
